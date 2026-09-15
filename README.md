@@ -47,10 +47,33 @@ file. Pre-generated outputs (`Aeternus.nandl.json`,
 
 ## In-game use
 
-1. Play any level — the overlay shows `Inputs | 60FP? | W<=10`.
-2. Pause and press **FW** for the histogram, precision estimate, and export.
-3. Find the exported files in the mod's save directory (path is shown in
-   the popup and the Geode log) and import them into the site calculator.
+1. Play any level — the left side shows NaN's bucket list, and tight
+   timings spawn ring + number popups at the player.
+2. Pause and press **FW** for the full calculator: it auto-loads the
+   current run; fill in measured 240Hz windows per row, press
+   **Calculate**, and read off the required precision, success chance,
+   and expected attempts — the same numbers as the site.
+3. **Export** writes `calculator-export.json` to the mod save folder;
+   **Import** loads the newest calculator JSON there (including the
+   converter outputs below), so runs move both ways between game and site.
+
+## Auto-probe: measuring true windows in-level
+
+Manual counting (frame stepper + trajectory, per the reddit method) is
+automated by the **Measure** button in the calculator:
+
+1. Load a **passing** run (your recorded clear, or an imported `.gdr`
+   bot replay converted with `tools/gdr_to_nandl.py`).
+2. Set the input range, max offset (±12 default), and checkpoint spacing.
+3. The mod replays the run from checkpoints, shifting one input at a
+   time tick-by-tick, and binary-searches both sides. PASS = still alive
+   on the recorded trajectory. Measured windows fill the rows live.
+4. A self-test validates checkpoint restore before probing; close the
+   panels and resume to run. Full extreme demons take hours unattended —
+   progress shows top-left, results export anytime.
+
+Method notes: trials run at normal speed in normal mode; your inputs are
+swallowed while probing; best at a stable 240fps.
 
 Numeric window guesses are starting points, **not measurements** — verify
 tight timings in-game before citing them.

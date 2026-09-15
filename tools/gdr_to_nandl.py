@@ -87,7 +87,7 @@ def convert(inputs, framerate, mode, game_fps=240.0, window_fps=240.0,
     fp60_candidates = 0
     hist = Counter()
     n = len(frames)
-    for idx, frame in enumerate(frames):
+    for idx, (frame, ev) in enumerate(zip(frames, inputs)):
         t_sec = frame / framerate
         if mode == "heuristic":
             dists = []
@@ -111,6 +111,11 @@ def convert(inputs, framerate, mode, game_fps=240.0, window_fps=240.0,
             "input": idx + 1,
             "timePosition": t_sec,
             "frameWindow": window,
+            # Extra fidelity fields for the Geode mod's auto-prober
+            # (nandl.pages.dev ignores unknown fields on import).
+            "down": bool(ev.get("down", idx % 2 == 0)),
+            "button": int(ev.get("btn", 1)),
+            "p2": bool(ev.get("2p", False)),
         })
     payload = {
         "format": FORMAT,

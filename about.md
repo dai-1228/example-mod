@@ -22,8 +22,15 @@ windows**, with in-game precision (σ/s) and one-click export to
   2 / 1`, same colors), and every tight timing spawns its bucket-colored
   ring + window number at the player, just like the Frame Window Counter
   videos.
-* Pause → **FW** button — histogram, estimated precision for a 24h
-  completion target (same model as the site's Formula tab), and export.
+* Pause → **FW** button — the full calculator, in-game: editable
+  frame-window rows (paginated), Game/Window FPS, respawn time,
+  seconds-or-frames times, Solve-for-24h / fixed-precision modes,
+  nerve/fatigue/CPS constants, JSON import/export, and the required
+  precision + attempt stats. Load run pulls in the current recording.
+* **Measure** (in the calculator) — auto-probes TRUE windows directly in
+  the level: it replays your passing run from checkpoints with each input
+  shifted tick-by-tick and binary-searches both sides. Needs a passing
+  run; best at stable 240fps.
 * Upload — the mod writes two files to its save folder:
   `Level.nandl.honest.json` (times only, fill windows in by hand like NaN
   does) and `Level.nandl.json` (density guesses so the calculator solves

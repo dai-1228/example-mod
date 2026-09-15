@@ -11,2982 +11,4770 @@
     {
       "input": 1,
       "timePosition": 0.3333333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 2,
       "timePosition": 0.3625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 3,
       "timePosition": 0.8958333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 4,
       "timePosition": 0.925,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 5,
       "timePosition": 1.4041666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 6,
       "timePosition": 1.4291666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 7,
       "timePosition": 1.7083333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 8,
       "timePosition": 1.7291666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 9,
       "timePosition": 1.8458333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 10,
       "timePosition": 1.8708333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 11,
       "timePosition": 2.254166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 12,
       "timePosition": 2.2708333333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 13,
       "timePosition": 2.5083333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 14,
       "timePosition": 2.5375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 15,
       "timePosition": 2.8625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 16,
       "timePosition": 2.8833333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 17,
       "timePosition": 2.9291666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 18,
       "timePosition": 2.9541666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 19,
       "timePosition": 3.0083333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 20,
       "timePosition": 3.029166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 21,
       "timePosition": 3.0791666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 22,
       "timePosition": 3.1083333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 23,
       "timePosition": 3.154166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 24,
       "timePosition": 3.1791666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 25,
       "timePosition": 3.220833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 26,
       "timePosition": 3.2416666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 27,
       "timePosition": 3.6,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 28,
       "timePosition": 3.625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 29,
       "timePosition": 3.825,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 30,
       "timePosition": 3.85,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 31,
       "timePosition": 3.9833333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 32,
       "timePosition": 4.179166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 33,
       "timePosition": 4.55,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 34,
       "timePosition": 4.575,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 35,
       "timePosition": 4.6625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 36,
       "timePosition": 4.683333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 37,
       "timePosition": 4.816666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 38,
       "timePosition": 4.841666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 39,
       "timePosition": 5.070833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 40,
       "timePosition": 5.095833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 41,
       "timePosition": 5.383333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 42,
       "timePosition": 5.395833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 43,
       "timePosition": 5.6,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 44,
       "timePosition": 5.691666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 45,
       "timePosition": 5.908333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 46,
       "timePosition": 5.9375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 47,
       "timePosition": 6.083333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 48,
       "timePosition": 6.108333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 49,
       "timePosition": 6.5125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 50,
       "timePosition": 6.579166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 51,
       "timePosition": 6.6125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 52,
       "timePosition": 6.641666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 53,
       "timePosition": 6.758333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 54,
       "timePosition": 6.783333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 55,
       "timePosition": 6.9125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 56,
       "timePosition": 6.941666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 57,
       "timePosition": 7.354166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 58,
       "timePosition": 7.525,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 59,
       "timePosition": 7.770833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 60,
       "timePosition": 7.795833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 61,
       "timePosition": 7.908333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 62,
       "timePosition": 7.9375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 63,
       "timePosition": 7.983333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 64,
       "timePosition": 8.0375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 65,
       "timePosition": 8.291666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 66,
       "timePosition": 8.316666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 67,
       "timePosition": 8.558333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 68,
       "timePosition": 8.579166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 69,
       "timePosition": 9.691666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 70,
       "timePosition": 9.7125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 71,
       "timePosition": 9.9375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 72,
       "timePosition": 10.108333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 73,
       "timePosition": 10.366666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 74,
       "timePosition": 10.4,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 75,
       "timePosition": 10.795833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 76,
       "timePosition": 11.2375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 77,
       "timePosition": 11.341666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 78,
       "timePosition": 11.470833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 79,
       "timePosition": 11.520833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 80,
       "timePosition": 11.579166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 81,
       "timePosition": 11.6,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 82,
       "timePosition": 11.6375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 83,
       "timePosition": 11.770833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 84,
       "timePosition": 11.95,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 85,
       "timePosition": 12.025,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 86,
       "timePosition": 12.079166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 87,
       "timePosition": 12.279166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 88,
       "timePosition": 12.320833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 89,
       "timePosition": 12.391666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 90,
       "timePosition": 12.45,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 91,
       "timePosition": 12.525,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 92,
       "timePosition": 12.575,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 93,
       "timePosition": 12.6875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 94,
       "timePosition": 12.754166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 95,
       "timePosition": 12.891666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 96,
       "timePosition": 12.975,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 97,
       "timePosition": 13.0,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 98,
       "timePosition": 13.0625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 99,
       "timePosition": 13.441666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 100,
       "timePosition": 13.516666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 101,
       "timePosition": 13.683333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 102,
       "timePosition": 13.716666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 103,
       "timePosition": 14.029166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 104,
       "timePosition": 14.133333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 105,
       "timePosition": 14.2125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 106,
       "timePosition": 14.308333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 107,
       "timePosition": 14.395833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 108,
       "timePosition": 14.458333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 109,
       "timePosition": 14.645833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 110,
       "timePosition": 14.8375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 111,
       "timePosition": 14.870833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 112,
       "timePosition": 15.283333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 113,
       "timePosition": 15.391666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 114,
       "timePosition": 15.470833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 115,
       "timePosition": 15.508333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 116,
       "timePosition": 15.6375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 117,
       "timePosition": 15.770833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 118,
       "timePosition": 15.966666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 119,
       "timePosition": 16.091666666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 120,
       "timePosition": 16.275,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 121,
       "timePosition": 16.358333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 122,
       "timePosition": 16.533333333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 123,
       "timePosition": 16.804166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 124,
       "timePosition": 16.879166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 125,
       "timePosition": 16.979166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 126,
       "timePosition": 17.045833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 127,
       "timePosition": 17.1375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 128,
       "timePosition": 17.225,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 129,
       "timePosition": 17.291666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 130,
       "timePosition": 17.370833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 131,
       "timePosition": 17.420833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 132,
       "timePosition": 17.504166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 133,
       "timePosition": 17.604166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 134,
       "timePosition": 17.708333333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 135,
       "timePosition": 17.820833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 136,
       "timePosition": 17.879166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 137,
       "timePosition": 17.941666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 138,
       "timePosition": 18.129166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 139,
       "timePosition": 18.55,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 140,
       "timePosition": 18.575,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 141,
       "timePosition": 18.704166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 142,
       "timePosition": 18.754166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 143,
       "timePosition": 18.895833333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 144,
       "timePosition": 18.916666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 145,
       "timePosition": 19.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 146,
       "timePosition": 19.2125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 147,
       "timePosition": 19.3375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 148,
       "timePosition": 19.425,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 149,
       "timePosition": 19.504166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 150,
       "timePosition": 19.6125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 151,
       "timePosition": 19.745833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 152,
       "timePosition": 19.845833333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 153,
       "timePosition": 19.920833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 154,
       "timePosition": 20.041666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 155,
       "timePosition": 20.229166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 156,
       "timePosition": 20.266666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 157,
       "timePosition": 20.441666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 158,
       "timePosition": 20.466666666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 159,
       "timePosition": 20.7625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 160,
       "timePosition": 20.833333333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 161,
       "timePosition": 20.879166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 162,
       "timePosition": 20.925,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 163,
       "timePosition": 20.966666666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 164,
       "timePosition": 21.016666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 165,
       "timePosition": 21.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 166,
       "timePosition": 21.091666666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 167,
       "timePosition": 21.133333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 168,
       "timePosition": 21.166666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 169,
       "timePosition": 21.304166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 170,
       "timePosition": 21.325,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 171,
       "timePosition": 21.554166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 172,
       "timePosition": 21.575,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 173,
       "timePosition": 21.7,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 174,
       "timePosition": 21.720833333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 175,
       "timePosition": 21.9625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 176,
       "timePosition": 21.9875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 177,
       "timePosition": 22.095833333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 178,
       "timePosition": 22.133333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 179,
       "timePosition": 22.454166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 180,
       "timePosition": 22.479166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 181,
       "timePosition": 22.595833333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 182,
       "timePosition": 22.6125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 183,
       "timePosition": 22.854166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 184,
       "timePosition": 22.879166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 185,
       "timePosition": 23.079166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 186,
       "timePosition": 23.15,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 187,
       "timePosition": 23.325,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 188,
       "timePosition": 23.441666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 189,
       "timePosition": 23.5,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 190,
       "timePosition": 23.745833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 191,
       "timePosition": 23.795833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 192,
       "timePosition": 23.841666666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 193,
       "timePosition": 24.054166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 194,
       "timePosition": 24.0875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 195,
       "timePosition": 24.283333333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 196,
       "timePosition": 24.320833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 197,
       "timePosition": 24.429166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 198,
       "timePosition": 24.620833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 199,
       "timePosition": 24.775,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 200,
       "timePosition": 24.916666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 201,
       "timePosition": 24.975,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 202,
       "timePosition": 25.070833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 203,
       "timePosition": 25.308333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 204,
       "timePosition": 25.375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 205,
       "timePosition": 25.729166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 206,
       "timePosition": 25.758333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 207,
       "timePosition": 26.020833333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 208,
       "timePosition": 26.058333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 209,
       "timePosition": 26.145833333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 210,
       "timePosition": 26.175,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 211,
       "timePosition": 26.570833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 212,
       "timePosition": 26.595833333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 213,
       "timePosition": 26.920833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 214,
       "timePosition": 26.95,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 215,
       "timePosition": 27.445833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 216,
       "timePosition": 27.483333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 217,
       "timePosition": 27.541666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 218,
       "timePosition": 27.575,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 219,
       "timePosition": 27.641666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 220,
       "timePosition": 27.679166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 221,
       "timePosition": 27.870833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 222,
       "timePosition": 27.916666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 223,
       "timePosition": 28.383333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 224,
       "timePosition": 28.395833333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 225,
       "timePosition": 28.708333333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 226,
       "timePosition": 28.729166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 227,
       "timePosition": 28.854166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 228,
       "timePosition": 28.883333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 229,
       "timePosition": 29.0625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 230,
       "timePosition": 29.083333333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 231,
       "timePosition": 29.416666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 232,
       "timePosition": 29.441666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 233,
       "timePosition": 29.654166666666665,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 234,
       "timePosition": 29.691666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 235,
       "timePosition": 29.7875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 236,
       "timePosition": 29.825,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 237,
       "timePosition": 29.8875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 238,
       "timePosition": 29.925,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 239,
       "timePosition": 30.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 240,
       "timePosition": 30.183333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 241,
       "timePosition": 30.283333333333335,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 242,
       "timePosition": 30.375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 243,
       "timePosition": 30.445833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 244,
       "timePosition": 30.516666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 245,
       "timePosition": 30.55,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 246,
       "timePosition": 30.729166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 247,
       "timePosition": 30.791666666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 248,
       "timePosition": 31.066666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 249,
       "timePosition": 31.304166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 250,
       "timePosition": 31.3625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 251,
       "timePosition": 31.833333333333332,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 252,
       "timePosition": 31.854166666666668,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 253,
       "timePosition": 32.05416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 254,
       "timePosition": 32.075,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 255,
       "timePosition": 32.37916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 256,
       "timePosition": 32.4,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 257,
       "timePosition": 32.52916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 258,
       "timePosition": 32.55833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 259,
       "timePosition": 32.625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 260,
       "timePosition": 32.65,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 261,
       "timePosition": 32.69583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 262,
       "timePosition": 32.729166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 263,
       "timePosition": 32.77916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 264,
       "timePosition": 32.80416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 265,
       "timePosition": 33.0875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 266,
       "timePosition": 33.104166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 267,
       "timePosition": 33.145833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 268,
       "timePosition": 33.1625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 269,
       "timePosition": 33.17916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 270,
       "timePosition": 33.204166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 271,
       "timePosition": 33.49166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 272,
       "timePosition": 33.516666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 273,
       "timePosition": 33.7,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 274,
       "timePosition": 33.72083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 275,
       "timePosition": 34.09583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 276,
       "timePosition": 34.12083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 277,
       "timePosition": 34.233333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 278,
       "timePosition": 34.25833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 279,
       "timePosition": 34.56666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 280,
       "timePosition": 34.59166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 281,
       "timePosition": 34.84166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 282,
       "timePosition": 34.8625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 283,
       "timePosition": 34.96666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 284,
       "timePosition": 34.9875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 285,
       "timePosition": 35.025,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 286,
       "timePosition": 35.045833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 287,
       "timePosition": 35.079166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 288,
       "timePosition": 35.09583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 289,
       "timePosition": 35.44583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 290,
       "timePosition": 35.46666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 291,
       "timePosition": 35.59166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 292,
       "timePosition": 35.61666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 293,
       "timePosition": 36.0875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 294,
       "timePosition": 36.1125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 295,
       "timePosition": 36.5125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 296,
       "timePosition": 36.525,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 297,
       "timePosition": 36.63333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 298,
       "timePosition": 36.68333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 299,
       "timePosition": 36.72083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 300,
       "timePosition": 36.8,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 301,
       "timePosition": 36.858333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 302,
       "timePosition": 36.88333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 303,
       "timePosition": 37.02916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 304,
       "timePosition": 37.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 305,
       "timePosition": 37.27916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 306,
       "timePosition": 37.3,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 307,
       "timePosition": 37.6625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 308,
       "timePosition": 37.6875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 309,
       "timePosition": 37.9,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 310,
       "timePosition": 37.92916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 311,
       "timePosition": 38.05416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 312,
       "timePosition": 38.079166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 313,
       "timePosition": 38.25833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 314,
       "timePosition": 38.28333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 315,
       "timePosition": 38.35,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 316,
       "timePosition": 38.36666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 317,
       "timePosition": 38.75833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 318,
       "timePosition": 38.775,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 319,
       "timePosition": 39.03333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 320,
       "timePosition": 39.05416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 321,
       "timePosition": 39.19583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 322,
       "timePosition": 39.229166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 323,
       "timePosition": 39.333333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 324,
       "timePosition": 39.354166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 325,
       "timePosition": 39.43333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 326,
       "timePosition": 39.458333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 327,
       "timePosition": 39.725,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 328,
       "timePosition": 39.791666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 329,
       "timePosition": 39.829166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 330,
       "timePosition": 40.19166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 331,
       "timePosition": 40.28333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 332,
       "timePosition": 40.325,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 333,
       "timePosition": 40.458333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 334,
       "timePosition": 40.516666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 335,
       "timePosition": 40.65,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 336,
       "timePosition": 40.69166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 337,
       "timePosition": 40.9375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 338,
       "timePosition": 41.0,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 339,
       "timePosition": 41.32083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 340,
       "timePosition": 41.38333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 341,
       "timePosition": 41.4375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 342,
       "timePosition": 41.729166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 343,
       "timePosition": 41.80416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 344,
       "timePosition": 41.87916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 345,
       "timePosition": 41.958333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 346,
       "timePosition": 42.0125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 347,
       "timePosition": 42.13333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 348,
       "timePosition": 42.19166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 349,
       "timePosition": 42.3125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 350,
       "timePosition": 42.479166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 351,
       "timePosition": 42.59583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 352,
       "timePosition": 42.65,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 353,
       "timePosition": 42.69583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 354,
       "timePosition": 42.75416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 355,
       "timePosition": 42.95,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 356,
       "timePosition": 43.00416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 357,
       "timePosition": 43.05833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 358,
       "timePosition": 43.266666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 359,
       "timePosition": 43.329166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 360,
       "timePosition": 43.395833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 361,
       "timePosition": 43.5,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 362,
       "timePosition": 43.59166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 363,
       "timePosition": 43.645833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 364,
       "timePosition": 43.704166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 365,
       "timePosition": 43.90416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 366,
       "timePosition": 44.03333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 367,
       "timePosition": 44.09166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 368,
       "timePosition": 44.15,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 369,
       "timePosition": 44.27916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 370,
       "timePosition": 44.420833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 371,
       "timePosition": 44.56666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 372,
       "timePosition": 44.675,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 373,
       "timePosition": 44.733333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 374,
       "timePosition": 44.795833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 375,
       "timePosition": 44.84583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 376,
       "timePosition": 44.9,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 377,
       "timePosition": 45.479166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 378,
       "timePosition": 45.5125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 379,
       "timePosition": 45.6375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 380,
       "timePosition": 45.72083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 381,
       "timePosition": 46.15833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 382,
       "timePosition": 46.1875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 383,
       "timePosition": 46.44166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 384,
       "timePosition": 46.46666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 385,
       "timePosition": 46.69166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 386,
       "timePosition": 46.77916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 387,
       "timePosition": 47.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 388,
       "timePosition": 47.13333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 389,
       "timePosition": 47.25,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 390,
       "timePosition": 47.2875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 391,
       "timePosition": 47.479166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 392,
       "timePosition": 47.57083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 393,
       "timePosition": 47.72083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 394,
       "timePosition": 47.74583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 395,
       "timePosition": 48.24583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 396,
       "timePosition": 48.27916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 397,
       "timePosition": 48.6,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 398,
       "timePosition": 48.625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 399,
       "timePosition": 48.80833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 400,
       "timePosition": 48.829166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 401,
       "timePosition": 48.96666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 402,
       "timePosition": 49.0,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 403,
       "timePosition": 49.125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 404,
       "timePosition": 49.15,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 405,
       "timePosition": 49.270833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 406,
       "timePosition": 49.295833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 407,
       "timePosition": 49.59583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 408,
       "timePosition": 49.675,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 409,
       "timePosition": 49.795833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 410,
       "timePosition": 49.891666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 411,
       "timePosition": 49.958333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 412,
       "timePosition": 50.145833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 413,
       "timePosition": 50.22083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 414,
       "timePosition": 50.30416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 415,
       "timePosition": 50.454166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 416,
       "timePosition": 50.5125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 417,
       "timePosition": 50.67916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 418,
       "timePosition": 50.729166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 419,
       "timePosition": 50.791666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 420,
       "timePosition": 50.825,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 421,
       "timePosition": 51.06666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 422,
       "timePosition": 51.09583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 423,
       "timePosition": 51.208333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 424,
       "timePosition": 51.24166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 425,
       "timePosition": 51.44583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 426,
       "timePosition": 51.516666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 427,
       "timePosition": 51.5875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 428,
       "timePosition": 51.62083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 429,
       "timePosition": 51.68333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 430,
       "timePosition": 51.925,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 431,
       "timePosition": 52.041666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 432,
       "timePosition": 52.11666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 433,
       "timePosition": 52.4375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 434,
       "timePosition": 52.458333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 435,
       "timePosition": 52.56666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 436,
       "timePosition": 52.8375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 437,
       "timePosition": 52.93333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 438,
       "timePosition": 53.229166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 439,
       "timePosition": 53.30833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 440,
       "timePosition": 53.358333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 441,
       "timePosition": 53.416666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 442,
       "timePosition": 53.4625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 443,
       "timePosition": 53.57083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 444,
       "timePosition": 53.645833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 445,
       "timePosition": 53.80416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 446,
       "timePosition": 53.854166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 447,
       "timePosition": 53.90416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 448,
       "timePosition": 54.00416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 449,
       "timePosition": 54.50416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 450,
       "timePosition": 54.5375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 451,
       "timePosition": 54.8,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 452,
       "timePosition": 54.8625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 453,
       "timePosition": 54.920833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 454,
       "timePosition": 54.979166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 455,
       "timePosition": 55.020833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 456,
       "timePosition": 55.07083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 457,
       "timePosition": 55.229166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 458,
       "timePosition": 55.25833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 459,
       "timePosition": 55.61666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 460,
       "timePosition": 55.645833333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 461,
       "timePosition": 55.791666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 462,
       "timePosition": 55.81666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 463,
       "timePosition": 56.016666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 464,
       "timePosition": 56.075,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 465,
       "timePosition": 56.13333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 466,
       "timePosition": 56.225,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 467,
       "timePosition": 56.38333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 468,
       "timePosition": 56.5375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 469,
       "timePosition": 56.666666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 470,
       "timePosition": 56.775,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 471,
       "timePosition": 57.104166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 472,
       "timePosition": 57.15416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 473,
       "timePosition": 57.3,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 474,
       "timePosition": 57.391666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 475,
       "timePosition": 57.67916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 476,
       "timePosition": 57.729166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 477,
       "timePosition": 57.8375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 478,
       "timePosition": 57.86666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 479,
       "timePosition": 57.94166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 480,
       "timePosition": 58.03333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 481,
       "timePosition": 58.108333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 482,
       "timePosition": 58.204166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 483,
       "timePosition": 58.233333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 484,
       "timePosition": 58.5375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 485,
       "timePosition": 58.59166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 486,
       "timePosition": 58.641666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 487,
       "timePosition": 58.78333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 488,
       "timePosition": 58.84166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 489,
       "timePosition": 59.05,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 490,
       "timePosition": 59.083333333333336,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 491,
       "timePosition": 59.81666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 492,
       "timePosition": 59.84166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 493,
       "timePosition": 59.99583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 494,
       "timePosition": 60.041666666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 495,
       "timePosition": 60.30833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 496,
       "timePosition": 60.34166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 497,
       "timePosition": 60.479166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 498,
       "timePosition": 60.50416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 499,
       "timePosition": 60.65416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 500,
       "timePosition": 60.6875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 501,
       "timePosition": 60.8875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 502,
       "timePosition": 60.920833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 503,
       "timePosition": 61.05833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 504,
       "timePosition": 61.079166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 505,
       "timePosition": 61.329166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 506,
       "timePosition": 61.3625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 507,
       "timePosition": 61.4625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 508,
       "timePosition": 61.49166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 509,
       "timePosition": 61.704166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 510,
       "timePosition": 61.74166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 511,
       "timePosition": 62.1375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 512,
       "timePosition": 62.15833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 513,
       "timePosition": 62.2875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 514,
       "timePosition": 62.30416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 515,
       "timePosition": 62.420833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 516,
       "timePosition": 62.44583333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 517,
       "timePosition": 62.65416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 518,
       "timePosition": 62.7125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 519,
       "timePosition": 62.75833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 520,
       "timePosition": 62.82083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 521,
       "timePosition": 62.858333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 522,
       "timePosition": 62.9125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 523,
       "timePosition": 62.979166666666664,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 524,
       "timePosition": 63.025,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 525,
       "timePosition": 63.18333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 526,
       "timePosition": 63.2125,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 527,
       "timePosition": 63.34166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 528,
       "timePosition": 63.36666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 529,
       "timePosition": 63.63333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 530,
       "timePosition": 63.6625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 531,
       "timePosition": 63.78333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 532,
       "timePosition": 63.80833333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 533,
       "timePosition": 64.0625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 534,
       "timePosition": 64.0875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 535,
       "timePosition": 64.19166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 536,
       "timePosition": 64.21666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 537,
       "timePosition": 64.325,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 538,
       "timePosition": 64.34166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 539,
       "timePosition": 64.55,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 540,
       "timePosition": 64.7,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 541,
       "timePosition": 64.78333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 542,
       "timePosition": 64.84166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 543,
       "timePosition": 64.89166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 544,
       "timePosition": 64.94583333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 545,
       "timePosition": 65.11666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 546,
       "timePosition": 65.3625,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 547,
       "timePosition": 65.48333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 548,
       "timePosition": 65.54166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 549,
       "timePosition": 65.60416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 550,
       "timePosition": 65.72916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 551,
       "timePosition": 65.91666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 552,
       "timePosition": 66.02083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 553,
       "timePosition": 66.68333333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 554,
       "timePosition": 66.74583333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 555,
       "timePosition": 66.81666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 556,
       "timePosition": 66.89166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 557,
       "timePosition": 67.00416666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 558,
       "timePosition": 67.06666666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 559,
       "timePosition": 67.1,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 560,
       "timePosition": 67.22083333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 561,
       "timePosition": 67.3375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 562,
       "timePosition": 67.44166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 563,
       "timePosition": 67.55833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 564,
       "timePosition": 67.73333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 565,
       "timePosition": 67.78333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 566,
       "timePosition": 67.95,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 567,
       "timePosition": 68.01666666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 568,
       "timePosition": 68.08333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 569,
       "timePosition": 68.225,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 570,
       "timePosition": 68.45416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 571,
       "timePosition": 69.20416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 572,
       "timePosition": 69.34166666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 573,
       "timePosition": 69.67916666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 574,
       "timePosition": 69.83333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 575,
       "timePosition": 69.95416666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 576,
       "timePosition": 70.1375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 577,
       "timePosition": 70.3,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 578,
       "timePosition": 70.3875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 579,
       "timePosition": 70.67916666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 580,
       "timePosition": 70.8375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 581,
       "timePosition": 71.00833333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 582,
       "timePosition": 71.075,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 583,
       "timePosition": 71.15,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 584,
       "timePosition": 71.24583333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 585,
       "timePosition": 71.35,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 586,
       "timePosition": 71.52916666666667,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 587,
       "timePosition": 71.65,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 588,
       "timePosition": 71.74166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 589,
       "timePosition": 71.98333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 590,
       "timePosition": 72.075,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 591,
       "timePosition": 72.23333333333333,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 592,
       "timePosition": 72.2875,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 593,
       "timePosition": 72.49583333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 594,
       "timePosition": 72.7375,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 595,
       "timePosition": 72.94166666666666,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": true,
+      "button": 1,
+      "p2": false
     },
     {
       "input": 596,
       "timePosition": 73.07083333333334,
-      "frameWindow": "-"
+      "frameWindow": "-",
+      "down": false,
+      "button": 1,
+      "p2": false
     }
   ]
 }
