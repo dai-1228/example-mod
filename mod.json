@@ -1,17 +1,85 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "5.10.1",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "nandl.frame-windows",
+	"name": "Frame Windows",
+	"version": "v1.0.0",
+	"developer": "nandl-helper",
+	"description": "Live 60fps frame-perfect candidates + NaNDL-style 240Hz frame windows, in-game precision (sigma/s), and one-click export to nandl.pages.dev calculator JSON.",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
+	},
+	"settings": {
+		"overlay-enabled": {
+			"type": "bool",
+			"name": "Show overlay",
+			"description": "Show the NaN-style bucket counter list while playing.",
+			"default": true
+		},
+		"nan-popups": {
+			"type": "bool",
+			"name": "Ring popups",
+			"description": "Spawn a bucket-colored ring + window number at the player when a tight timing is detected (like NaN's videos).",
+			"default": true
+		},
+		"popup-time": {
+			"type": "float",
+			"name": "Popup lifetime (s)",
+			"description": "How long each ring popup stays on screen.",
+			"default": 0.9
+		},
+		"count-releases": {
+			"type": "bool",
+			"name": "Count releases",
+			"description": "Count releases as inputs too (NaN GD timings include releases).",
+			"default": true
+		},
+		"clear-on-reset": {
+			"type": "bool",
+			"name": "Clear on retry",
+			"description": "Restart the recording each attempt (recommended). Disable to accumulate across attempts.",
+			"default": true
+		},
+		"auto-export": {
+			"type": "bool",
+			"name": "Auto-export on quit",
+			"description": "Write the NaNDL JSON files automatically when leaving a level.",
+			"default": false
+		},
+		"game-fps": {
+			"type": "float",
+			"name": "Game FPS",
+			"description": "Tick rate the run is recorded at. Matches the calculator's Game FPS.",
+			"default": 240.0
+		},
+		"window-fps": {
+			"type": "float",
+			"name": "Window FPS",
+			"description": "Timing-window rate for frame windows and precision. NaNDL uses 240.",
+			"default": 240.0
+		},
+		"respawn-time": {
+			"type": "float",
+			"name": "Respawn time (s)",
+			"description": "Added to every attempt time, same as the calculator field.",
+			"default": 0.0
+		},
+		"fp60-ticks": {
+			"type": "int",
+			"name": "60FP ticks",
+			"description": "Neighbour distance (240Hz ticks) at/below which an input is a classic 60fps frame-perfect candidate. 4 ticks = one 60Hz frame.",
+			"default": 4
+		},
+		"tight-cutoff": {
+			"type": "int",
+			"name": "Tight cutoff",
+			"description": "Neighbour distance (240Hz ticks) at/below which an input gets a numeric 0-10 window guess. Wider spacings export as '-' (ignored).",
+			"default": 12
+		}
 	}
 }
